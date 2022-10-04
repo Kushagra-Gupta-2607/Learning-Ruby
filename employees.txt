@@ -1,0 +1,5 @@
+Jim, Sales
+Andy, Sales
+Kelly, Customer Service
+Jessica, Manager
+Natasha, Quality Assurance
